@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.item{
+    color: rgb(139, 0, 5);
+    cursor: pointer;
+}
+.fimg{
+    height: 60px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .item{
+        color: rgb(0, 139, 7);
+        cursor: pointer;
+    }
+    .fimg{
+        height: 80px;
+    }
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
